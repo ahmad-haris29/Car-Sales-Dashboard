@@ -44,7 +44,8 @@ In this project, I extracted, transformed, and visualized car sales data to iden
 ## 🗂 Contact  
 
 - **Name**: Ahmad Haris  
-- **LinkedIn**: [Ahmad Haris LinkedIn](https://www.linkedin.com/in/ahmad-haris-524bb5281/)  
+- **LinkedIn**: [Ahmad Haris LinkedIn](https://www.linkedin.com/in/ahmad-haris-524bb5281/)
+- **Dashboard_link**: (https://www.linkedin.com/posts/ahmad-haris-524bb5281_microsoftexcel-datatransformation-dataanalytics-activity-7279377517398867968-hxg0?utm_source=share&utm_medium=member_desktop)
 
 ## ⭐ Acknowledgments  
 
